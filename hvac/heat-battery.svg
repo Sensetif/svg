@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7.3794837mm"
+   height="13.034194mm"
+   viewBox="0 0 7.3794839 13.034193"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="heat-battery.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="8.2865097"
+     inkscape:cx="1.3877978"
+     inkscape:cy="17.860354"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.097301,-17.826915)">
+    <g
+       id="g9498">
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect7154"
+         width="7.2794838"
+         height="12.934194"
+         x="18.147301"
+         y="17.876915" />
+      <path
+         style="fill:none;stroke:#666666;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 20.287043,24.35293 h 2.999999"
+         id="path3474-9-28-9" />
+      <path
+         style="fill:none;stroke:#666666;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 21.784713,22.844013 v 2.999998"
+         id="path3474-9-28-4" />
+      <path
+         style="fill:none;stroke:#666666;stroke-width:0.499999;stroke-linecap:round;paint-order:markers stroke fill"
+         id="path8954"
+         sodipodi:type="arc"
+         sodipodi:cx="21.787043"
+         sodipodi:cy="24.344011"
+         sodipodi:rx="2.932512"
+         sodipodi:ry="2.932512"
+         sodipodi:start="0"
+         sodipodi:end="6.2811994"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         d="m 24.719555,24.344011 a 2.932512,2.932512 0 0 1 -2.931056,2.932512 2.932512,2.932512 0 0 1 -2.933967,-2.9296 2.932512,2.932512 0 0 1 2.928143,-2.93542 2.932512,2.932512 0 0 1 2.936874,2.926685" />
+    </g>
+  </g>
+</svg>
